@@ -1,0 +1,5 @@
+title-我们的笨笨,url-http://video.jeffzhucode.com/downloads/bb1.MOV,imageurl-http://08imgmini.eastday.com/mobile/20181113/20181113_7fa25035018ba644cb43a36db1d8ea17_cover_mwpm_03200403.jpg
+title-我们的Vlog1,url-http://video.jeffzhucode.com/downloads/vlog1.MOV,imageurl-http://08imgmini.eastday.com/mobile/20181113/20181113_7fa25035018ba644cb43a36db1d8ea17_cover_mwpm_03200403.jpg
+title-我们的Vlog2,url-http://video.jeffzhucode.com/downloads/vlog2.MOV,imageurl-http://08imgmini.eastday.com/mobile/20181113/20181113_7fa25035018ba644cb43a36db1d8ea17_cover_mwpm_03200403.jpg
+title-我们的Vlog3,url-http://video.jeffzhucode.com/downloads/vlog3.MOV,imageurl-http://08imgmini.eastday.com/mobile/20181113/20181113_7fa25035018ba644cb43a36db1d8ea17_cover_mwpm_03200403.jpg
+title-我们的Vlog4,url-http://video.jeffzhucode.com/downloads/vlog4.MOV,imageurl-http://08imgmini.eastday.com/mobile/20181113/20181113_7fa25035018ba644cb43a36db1d8ea17_cover_mwpm_03200403.jpg

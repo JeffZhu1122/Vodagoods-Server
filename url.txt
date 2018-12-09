@@ -1,0 +1,14 @@
+http://key.vodagoods.com key o2BDQnelenArSlV1GTu 生成app充值卡
+http://pay.vodagoods.com admin admin app充值卡 网吧充值卡上传
+
+http://api-image.vodagoods.com（图片名字）  图片地址
+172.16.0.210服务器内 D:\wwwroot\videoup_765tm6\web
+http://api-video.vodagoods.com（视频名字）  视频地址
+172.16.0.210服务器内 D:\wwwroot\imageup_22fqiz\web
+
+http://mail.vodagoods.com admin admin 邮箱后台
+http://www.vodagoods.com 网站主页
+http://video.vodagoods.com 视频主页
+
+https://www.jeffzhucode.com 下载地址
+https://www.jeffzhucode.com/udid udid获取地址
